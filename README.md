@@ -9,5 +9,5 @@ Add Nvidia Jetson Xavier GPU to netdata dashboard
 4. Restart your netdata ( `systemctl restart netdata` )
 
 Things to do:
-* Check fan RPM - For now the file want root permissons
-* Add gpu usage gauge to dashboard_info.js
+- [] Check fan RPM - For now the file want root permissons
+- [] Add gpu usage gauge to dashboard_info.js
