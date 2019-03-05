@@ -8,3 +8,4 @@ Add Nvidia Jetson Xavier GPU to netdata dashboard
 
 Things to do:
 * Check fan RPM - For now the file want root permissons
+* Add gpu usage gauge to dashboard_info.js
